@@ -1,6 +1,6 @@
 
 *{
-        border: 2px solid red;
+        border: 2px solid blue;
     
 }
 
@@ -49,9 +49,12 @@ a {
 
 .hero {
     background-color: #1F2937;
+    padding: 15px;
     display: flex;
 
+
 }
+
 
 h1 {
 
@@ -60,15 +63,36 @@ h1 {
     color:#F9FAF8 ;
 }
 
-p {
+.hero-text {
     font-size: 18px;
     color:#E5E7EB ;
 }
 
+.image {
+
+width: ;
+
+}
+
+img {
+ width: 400px;
+ height: ;
+}
+
+button {
+    background-color: #3882f6;
+    color: #F9FAF8;
+    border-radius: 5px;
+    padding: 5px 20px;
+}
+
+/* Information section styles */
 
 
 
-/*  border: 2px solid rebeccapurple;*/
+
+
+
 /* 
 
 
